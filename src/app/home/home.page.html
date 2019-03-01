@@ -1,12 +1,55 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
-<ion-content padding>
-  The world is your oyster.
-  <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs">docs</a> will be your guide.</p>
+<ion-content>
+    <style></style>
+    <ion-grid>
+        <ion-row id="specialRow">
+            <ion-col>
+                S
+            </ion-col>
+            <ion-col>
+                P
+            </ion-col>
+            <ion-col>
+                E
+            </ion-col>
+            <ion-col>
+                C
+            </ion-col>
+            <ion-col>
+                I
+            </ion-col>
+            <ion-col>
+                A
+            </ion-col>
+            <ion-col>
+                L
+            </ion-col>
+        </ion-row>
+        <ion-input type="text" (input)="search($event.target.value)"></ion-input>
+        <ion-row>
+            <ion-col *ngFor="let perks of this.allPerks; let specialId = index">
+                <div scrolly="true">
+                    <ion-list>
+                        <ion-card *ngFor="let perk of perks;  let perkUId = index"
+                                  id="{{(specialId).toString()+(perkUId).toString()}}">
+                            <a (click)="addPerk($event,(specialId).toString()+(perkUId).toString())">+</a>
+                            <ion-card-header (click)="expandPerk($event,(specialId).toString()+(perkUId).toString())">
+                                <h4 id="perkname-{{(specialId).toString()+(perkUId).toString()}}">
+                                    {{perk['perkName']}}</h4>
+                            </ion-card-header>
+                            <ion-card-content id="content-{{(specialId).toString()+(perkUId).toString()}}">
+                                <select [(ngModel)]="perkUId">
+                                    <option value="1" selected>Rank 1</option>
+                                    <option value="2">Rank 2</option>
+                                    <option value="3">Rank 3</option>
+                                    <option value="4">Rank 4</option>
+                                    <option value="5">Rank 5</option>
+                                </select>
+                                <p>{{perk['ranks'][perkUId]}}</p>
+                            </ion-card-content>
+                        </ion-card>
+                    </ion-list>
+                </div>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
 </ion-content>

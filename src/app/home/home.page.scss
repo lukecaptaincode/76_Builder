@@ -1,1 +1,149 @@
+@font-face {
+  font-family: 'Fixedsys Excelsior 3.01';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Fixedsys Excelsior 3.01'), url('FSEX300.woff') format('woff');
+}
+*{
+  font-family: "Fixedsys Excelsior 3.01";
+}
+ion-grid{
+  background-color: black !important;
+  background-image: radial-gradient(rgba(0, 150, 0, 0.75), black 100%) !important;
+  height: 100vh !important;
+  margin: 0 !important;
+  overflow: hidden !important;
+  padding: 2rem !important;
+  color: white !important;
+  text-shadow: 0 0 5px #C8C8C8 !important;
+  &::after {
+    content: "" !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    background: repeating-linear-gradient(
+                    0deg,
+                    rgba(black, 0.15),
+                    rgba(black, 0.15) 1px,
+                    transparent 1px,
+                    transparent 2px
+    ) !important;
+    pointer-events: none !important;
+  }
+  ion-col, ion-list{
+    background-color: rgba(0,0,0,0)!important;
+    color:white!important;
+    *{
+      //background-color: rgba(0,0,0,0)!important;
+      &:not(select){
+        color:white!important;
+      }
+    }
+  }
+}
+::selection {
+  background: #0080FF !important;
+  text-shadow: none !important;
+}
+pre {
+  margin: 0 !important;
+}
+div[scrollx=true], div[scrolly=true] {
+  height: 90vh;
+  position: relative;
+  overflow: hidden;
+}
 
+div[scrollx=true] {
+  overflow-x: auto;
+}
+
+div[scrolly=true] {
+  overflow-y: auto;
+}
+::-webkit-scrollbar {
+  display: none!important;
+}
+ion-card-content{
+  height: 0;
+  padding: 0!important;
+}
+ion-card-header{
+  height: 100px;
+}
+ion-card{
+  padding: 5px;
+  border-radius: 8px;
+  border: 1.5px solid white;
+  background-image: radial-gradient(rgba(0, 150, 0, 1), black 150%) !important;
+  //background-color: black!important;
+  margin-top: -20px!important;
+
+}
+ion-list{
+  padding-top: 30px!important;
+}
+#specialRow{
+  height: 50vh;
+}
+select{
+  color: black!important;
+}
+.blinking-cursor {
+  font-weight: 100;
+  font-size: 20px;
+  color: #2E3D48;
+  margin-top: 5px;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-webkit-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-ms-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-o-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}

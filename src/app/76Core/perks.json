@@ -1,0 +1,2304 @@
+{
+  "Strength": [
+    {
+      "perkName": "Iron Fist",
+      "perkLevel": "2",
+      "ranks": {
+        "1": "Punching attacks do +20% damage with a 5% chance to stagger your opponent.",
+        "2": "Punching attacks do +40% damage with a 10% chance to stagger your opponent.",
+        "3": "Punching attacks do +60% damage with a 15% chance to stagger your opponent.",
+        "4": "Rank 4: Punching attacks do +80% damage with a 20% chance to stagger your opponent.",
+        "5": "Rank 5: Punching attacks do +100% damage with a 25% chance to stagger your opponent."
+      }
+    },
+    {
+      "perkName": "Travelling Pharmacy",
+      "perkLevel": "3",
+      "ranks": {
+        "1": "Weight of all Chems (including Stimpacks) are reduced by 30%.",
+        "2": "Weight of all Chems (including Stimpacks) are reduced by 60%.",
+        "3": "Weight of all Chems (including Stimpacks) are reduced by 90%.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Bandolier",
+      "perkLevel": "4",
+      "ranks": {
+        "1": "Ballistic weapon ammo weighs 30% less.",
+        "2": "Ballistic weapon ammo weighs 60% less.",
+        "3": "Ballistic weapon ammo weighs 90% less.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Gladiator",
+      "perkLevel": "5",
+      "ranks": {
+        "1": "Your one-handed melee weapons now do +10% damage.",
+        "2": "Your one-handed melee weapons now do +20% damage.",
+        "3": "Your one-handed melee weapons now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Pack Rat",
+      "perkLevel": "6",
+      "ranks": {
+        "1": "The weight of all junk items is reduced by 25%.",
+        "2": "The weight of all junk items is reduced by 50%.",
+        "3": "The weight of all junk items is reduced by 75%.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Slugger",
+      "perkLevel": "7",
+      "ranks": {
+        "1": "Your two-handed melee weapons deal 10% more damage.",
+        "2": "Your two-handed melee weapons deal 20% more damage.",
+        "3": "Your two-handed melee weapons deal 30% more damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Shotgunner",
+      "perkLevel": "10",
+      "ranks": {
+        "1": "Your shotguns now deal +10% damage.",
+        "2": "Your shotguns now deal +20% damage.",
+        "3": "Your shotguns now deal +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Basher",
+      "perkLevel": "11",
+      "ranks": {
+        "1": "Gun bashing does +25% damage with a 5% chance to cripple your opponent.",
+        "2": "Gun bashing does +50% damage with a 10% chance to cripple your opponent.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Sturdy Frame",
+      "perkLevel": "13",
+      "ranks": {
+        "1": "Armour weighs 25% less.",
+        "2": "Armour weighs 50% less.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Barbarian",
+      "perkLevel": "14",
+      "ranks": {
+        "1": "Every point of Strength adds +2 damage resistance (maximum of 40) (not compatible with power armour).",
+        "2": "Every point of Strength adds +3 damage resistance (maximum of 60) (not compatible with power armour).",
+        "3": "Every point of Strength adds +4 damage resistance (maximum of 80) (not compatible with power armour).",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Martial Artist",
+      "perkLevel": "16",
+      "ranks": {
+        "1": "Your melee weapons weigh 20% less and you swing them 10% faster.",
+        "2": "Your melee weapons weigh 40% less and you swing them 20% faster.",
+        "3": "Your melee weapons weigh 60% less and you swing them 30% faster.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Scattershot",
+      "perkLevel": "18",
+      "ranks": {
+        "1": "Shotguns now weigh 30% less and you reload them 10% faster.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Gladiator",
+      "perkLevel": "20",
+      "ranks": {
+        "1": "Your one-handed melee weapons now do +10% damage.",
+        "2": "Your one-handed melee weapons now do +20% damage.",
+        "3": "Your one-handed melee weapons now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Blocker",
+      "perkLevel": "21",
+      "ranks": {
+        "1": "Take 15% less damage from your opponent’s melee attacks.",
+        "2": "Take 30% less damage from your opponent’s melee attacks.",
+        "3": "Take 45% less damage from your opponent’s melee attacks.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Shotgunner",
+      "perkLevel": "23",
+      "ranks": {
+        "1": "Your shotguns now deal +10% damage.",
+        "2": "Your shotguns now deal +20% damage.",
+        "3": "Your shotguns now deal +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Slugger",
+      "perkLevel": "24",
+      "ranks": {
+        "1": "Your two-handed melee weapons deal 10% more damage.",
+        "2": "Your two-handed melee weapons deal 20% more damage.",
+        "3": "Your two-handed melee weapons deal 30% more damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Strong Back",
+      "perkLevel": "26",
+      "ranks": {
+        "1": "+10 carry weight.",
+        "2": "+20 carry weight.",
+        "3": "+30 carry weight.",
+        "4": "+40 carry weight.",
+        "5": "+50 carry weight."
+      }
+    },
+    {
+      "perkName": "Heavy Gunner",
+      "perkLevel": "30",
+      "ranks": {
+        "1": "Your non-explosive heavy guns now do +10% damage.",
+        "2": "Your non-explosive heavy guns now do +20% damage.",
+        "3": "Your non-explosive heavy guns now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Ordinance Express",
+      "perkLevel": "31",
+      "ranks": {
+        "1": "Explosives weigh 30% less.",
+        "2": "Explosives weigh 60% less.",
+        "3": "Explosives weigh 90% less.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Incisor",
+      "perkLevel": "34",
+      "ranks": {
+        "1": "Your melee attacks ignore 20% of your target’s armour.",
+        "2": "Your melee attacks ignore 40% of your target’s armour.",
+        "3": "Your melee attacks ignore 60% of your target’s armour.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Bear Arms",
+      "perkLevel": "35",
+      "ranks": {
+        "1": "Heavy guns weigh 20% less.",
+        "2": "Heavy guns weigh 40% less.",
+        "3": "Heavy guns weigh 60% less.",
+        "4": "Heavy guns weigh 80% less.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Lock and Load",
+      "perkLevel": "37",
+      "ranks": {
+        "1": "Heavy guns reload 10% faster.",
+        "2": "Heavy guns reload 20% faster.",
+        "3": "Heavy guns reload 30% faster.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Bullet Shield",
+      "perkLevel": "39",
+      "ranks": {
+        "1": "Gain 10 damage resistance while firing a heavy gun.",
+        "2": "Gain 20 damage resistance while firing a heavy gun.",
+        "3": "Gain 30 damage resistance while firing a heavy gun.",
+        "4": "Gain 40 damage resistance while firing a heavy gun.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Heavy Gunner",
+      "perkLevel": "40",
+      "ranks": {
+        "1": "Your non-explosive heavy guns now do +10% damage.",
+        "2": "Your non-explosive heavy guns now do +20% damage.",
+        "3": "Your non-explosive heavy guns now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Pain Train",
+      "perkLevel": "41",
+      "ranks": {
+        "1": "Damage enemies by sprinting into them with Power Armor.",
+        "2": "Smash enemies by sprinting into them with Power Armor.",
+        "3": "Devastate and stagger enemies by sprinting into them with Power Armor.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Gladiator",
+      "perkLevel": "43",
+      "ranks": {
+        "1": "Your one-handed melee weapons now do +10% damage.",
+        "2": "Your one-handed melee weapons now do +20% damage.",
+        "3": "Your one-handed melee weapons now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Shotgunner",
+      "perkLevel": "45",
+      "ranks": {
+        "1": "Your shotguns now deal +10% damage.",
+        "2": "Your shotguns now deal +20% damage.",
+        "3": "Your shotguns now deal +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Slugger",
+      "perkLevel": "48",
+      "ranks": {
+        "1": "Your two-handed melee weapons deal 10% more damage.",
+        "2": "Your two-handed melee weapons deal 20% more damage.",
+        "3": "Your two-handed melee weapons deal 30% more damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Heavy Gunner",
+      "perkLevel": "50",
+      "ranks": {
+        "1": "Your non-explosive heavy guns now do +10% damage.",
+        "2": "Your non-explosive heavy guns now do +20% damage.",
+        "3": "Your non-explosive heavy guns now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    }
+  ],
+  "Perception": [
+    {
+      "perkName": "Concentrated Fire",
+      "perkLevel": "2",
+      "ranks": {
+        "1": "VATS now targets limbs. Focus fire to gain accuracy and damage per shot.",
+        "2": "Focus fire to gain accuracy and damage per shot.",
+        "3": "Focus fire to gain accuracy and damage per shot.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Butcher’s Bounty",
+      "perkLevel": "3",
+      "ranks": {
+        "1": "40% chance to find extra meat when you search an animal corpse.",
+        "2": "60% chance to find extra meat when you search an animal corpse.",
+        "3": "80% chance to find extra meat when you search an animal corpse.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Green Thumb ",
+      "perkLevel": "4",
+      "ranks": {
+        "1": "Reap twice as much when harvesting flora",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Picklock",
+      "perkLevel": "5",
+      "ranks": {
+        "1": "Gain +1 lockpicking skill, and the lockpicking sweet spot is 10% larger.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Crack Shot",
+      "perkLevel": "7",
+      "ranks": {
+        "1": "All pistols now have 10% more range and accuracy when sighted.",
+        "2": "All pistols now have 15% more range and accuracy when sighted.",
+        "3": "All pistols now have 20% more range and accuracy when sighted.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Rifleman",
+      "perkLevel": "8",
+      "ranks": {
+        "1": "Your non-automatic rifles now do +10% damage.",
+        "2": "Your non-automatic rifles now do +20% damage.",
+        "3": "Your non-automatic rifles now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Skeet Shooter",
+      "perkLevel": "10",
+      "ranks": {
+        "1": "Your shotguns have improved accuracy and spread.",
+        "2": "Your shotguns have even better accuracy and spread.",
+        "3": "Your shotguns have excellent accuracy and spread.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Pannapictagraphist",
+      "perkLevel": "12",
+      "ranks": {
+        "1": "You hear directional audio when in range of a Magazine.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Exterminator",
+      "perkLevel": "14",
+      "ranks": {
+        "1": "Your attacks ignore 25% armour of any insect.",
+        "2": "Your attacks ignore 25% armour of any insect.",
+        "3": "Your attacks ignore 25% armour of any insect.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Commando",
+      "perkLevel": "15",
+      "ranks": {
+        "1": "Automatic rifles do +10% damage.",
+        "2": "Automatic rifles do +20% damage.",
+        "3": "Automatic rifles do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "PerceptiBobble",
+      "perkLevel": "16",
+      "ranks": {
+        "1": "You hear directional audio when in range of a Bobblehead.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Ground Pounder",
+      "perkLevel": "18",
+      "ranks": {
+        "1": "Automatic rifles now reload 10% faster and have better hip fire accuracy.",
+        "2": "Automatic rifles now reload 20% faster and have better hip fire accuracy.",
+        "3": "Automatic rifles now reload 30% faster and have better hip fire accuracy.",
+        "4": "Automatic rifles now reload 40% faster and have better hip fire accuracy.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Picklock",
+      "perkLevel": "19",
+      "ranks": {
+        "1": "Gain +1 lockpicking skill, and the lockpicking sweet spot is 10% larger.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Rifleman",
+      "perkLevel": "20",
+      "ranks": {
+        "1": "Your non-automatic rifles now do +10% damage.",
+        "2": "Your non-automatic rifles now do +20% damage.",
+        "3": "Your non-automatic rifles now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Fortune Finder",
+      "perkLevel": "22",
+      "ranks": {
+        "1": "You hear directional audio when in range of a Cap Stash.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Night Person",
+      "perkLevel": "24",
+      "ranks": {
+        "1": "Gain +1 INT and +1 PER between the hours of 6:00pm and 6:00am.",
+        "2": "Gain +2 INT and +2 PER between the hours of 6:00pm and 6:00am.",
+        "3": "Gain +3 INT and +3 PER between the hours of 6:00pm and 6:00am.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Commando",
+      "perkLevel": "25",
+      "ranks": {
+        "1": "Automatic rifles do +10% damage.",
+        "2": "Automatic rifles do +20% damage.",
+        "3": "Automatic rifles do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Awareness",
+      "perkLevel": "27",
+      "ranks": {
+        "1": "You can view a target’s specific damage resistances in VATS.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Sniper",
+      "perkLevel": "28",
+      "ranks": {
+        "1": "Gain improved control and hold your breath 25% longer while aiming down scopes. Improved focus and better sighted accuracy.",
+        "2": "Gain improved control and hold your breath 50% longer while aiming down scopes.",
+        "3": "Gain improved control aN/And hold your breath 75% longer while aiming down scopes.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Tank Killer",
+      "perkLevel": "30",
+      "ranks": {
+        "1": "Your rifles ignore 10% armour and have a 2% chance to stagger.",
+        "2": "Your rifles ignore 20% armour and have a 4% chance to stagger.",
+        "3": "Your rifles ignore 30% armour and have a 6% chance to stagger.",
+        "4": "Your rifles ignore 40% armour and have a 8% chance to stagger.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Refractor",
+      "perkLevel": "32",
+      "ranks": {
+        "1": "Gain +5 Energy Resistance.",
+        "2": "Gain +10 Energy Resistance.",
+        "3": "Gain +15 Energy Resistance.",
+        "4": "Gain +20 Energy Resistance.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Glow Sight",
+      "perkLevel": "33",
+      "ranks": {
+        "1": "Deal +20% to glowing enemies.",
+        "2": "Deal +40% to glowing enemies.",
+        "3": "Deal +60% to glowing enemies.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Grenadier",
+      "perkLevel": "35",
+      "ranks": {
+        "1": "Explosives have a 50% larger radius.",
+        "2": "Explosives have twice as big a radius.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Longshot",
+      "perkLevel": "37",
+      "ranks": {
+        "1": "Your rifles have 5% more range and more accuracy while sighted.",
+        "2": "Your rifles have 10% more range and more accuracy while sighted.",
+        "3": "Your rifles have 15% more range and more accuracy while sighted.",
+        "4": "Your rifles have 20% more range and more accuracy while sighted.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Fire in the Hole",
+      "perkLevel": "38",
+      "ranks": {
+        "1": "See a throwing arc when tossing grenades. Grenades fly 15% further.",
+        "2": "See a throwing arc when tossing grenades. Grenades fly 30% further.",
+        "3": "See a throwing arc when tossing grenades. Grenades fly 50% further.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Picklock",
+      "perkLevel": "40",
+      "ranks": {
+        "1": "Gain +1 lockpicking skill, and the lockpicking sweet spot is 10% larger.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Rifleman",
+      "perkLevel": "42",
+      "ranks": {
+        "1": "Your non-automatic rifles now do +10% damage.",
+        "2": "Your non-automatic rifles now do +20% damage.",
+        "3": "Your non-automatic rifles now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Commando",
+      "perkLevel": "45",
+      "ranks": {
+        "1": "Automatic rifles do +10% damage.",
+        "2": "Automatic rifles do +20% damage.",
+        "3": "Automatic rifles do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Night Eyes",
+      "perkLevel": "47",
+      "ranks": {
+        "1": "Gain night vision while sneaking between 6:00pm and 6:00am.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Penetrator",
+      "perkLevel": "50",
+      "ranks": {
+        "1": "VATS can hit enemy body parts that are covered with reduced accuracy.",
+        "2": "VATS can hit enemy body parts that are covered with slightly reduced accuracy.",
+        "3": "VATS can hit enemy body parts that are covered with normal accuracy.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    }
+  ],
+  "Endurance": [
+    {
+      "perkName": "Lead Belly",
+      "perkLevel": "2",
+      "ranks": {
+        "1": "Take 30% less radiation from eating or drinking.",
+        "2": "Take 60% less radiation from eating or drinking.",
+        "3": "Take zero radiation from eating or drinking.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Dromedary",
+      "perkLevel": "3",
+      "ranks": {
+        "1": "All drinks quench thirst by an additional 25%.",
+        "2": "All drinks quench thirst by an additional 50%.",
+        "3": "All drinks quench thirst by an additional 75%.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Iron Stomach",
+      "perkLevel": "4",
+      "ranks": {
+        "1": "Your chance to catch a disease from food is reduced by 30%.",
+        "2": "Your chance to catch a disease from food is reduced by 60%.",
+        "3": "Your chance to catch a disease from food is reduced by 90%.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Slow Metabolizer",
+      "perkLevel": "5",
+      "ranks": {
+        "1": "All food satisfies hunger by an additional 25%.",
+        "2": "All food satisfies hunger by an additional 50%.",
+        "3": "All food satisfies hunger by an additional 75%.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Thirst Quencher",
+      "perkLevel": "6",
+      "ranks": {
+        "1": "Drinking any liquid has a 30% reduced chance to cause disease.",
+        "2": "Drinking any liquid has a 60% reduced chance to cause disease.",
+        "3": "Drinking any liquid has a 90% reduced chance to cause disease.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Good Doggy",
+      "perkLevel": "8",
+      "ranks": {
+        "1": "Eating dog food is now three times as beneficial.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Natural Resistance",
+      "perkLevel": "10",
+      "ranks": {
+        "1": "You are 30% less likely to catch a disease from the environment.",
+        "2": "You are 60% less likely to catch a disease from the environment.",
+        "3": "You are 90% less likely to catch a disease from the environment.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Hydro Fix",
+      "perkLevel": "11",
+      "ranks": {
+        "1": "Chems generate 50% less thirst.",
+        "2": "Chems generate no thirst.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Rejuvenated",
+      "perkLevel": "12",
+      "ranks": {
+        "1": "You gain increased benefit from being “Well Fed” or “Well Hydrated”.",
+        "2": "You gain a much increased benefit from being “Well Fed” or “Well Hydrated”.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Cola Nut",
+      "perkLevel": "14",
+      "ranks": {
+        "1": "Nuka-Cola products are now twice as beneficial.",
+        "2": "Nuka-Cola products are now three times as beneficial.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Vaccinated",
+      "perkLevel": "16",
+      "ranks": {
+        "1": "Chances of catching a disease from creatures is reduced by 30%.",
+        "2": "Chances of catching a disease from creatures is reduced by 60%.",
+        "3": "Chances of catching a disease from creatures is reduced by 90%.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Munchy Resistance",
+      "perkLevel": "17",
+      "ranks": {
+        "1": "Chems generate 50% less hunger.",
+        "2": "Chems generate no hunger.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Homebody",
+      "perkLevel": "19",
+      "ranks": {
+        "1": "Gain gradual health regeneration while in your camp or a captured workshop.",
+        "2": "Gain improved health regeneration while in your camp or a captured workshop.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Adamantium Skeleton ",
+      "perkLevel": "21",
+      "ranks": {
+        "1": "Your limb damage is now reduced by 20%.",
+        "2": "Your limb damage is now reduced by 40%.",
+        "3": "Your limb damage is now reduced by 60%.",
+        "4": "Your limb damage is now reduced by 80%.",
+        "5": "Your limb damage is now reduced by 100%."
+      }
+    },
+    {
+      "perkName": "Solar Powered",
+      "perkLevel": "22",
+      "ranks": {
+        "1": "Gain +1 Strength and +1 Endurance between the hours of 6:00am and 6:00pm.",
+        "2": "Gain +2 Strength and +2 Endurance between the hours of 6:00am and 6:00pm.",
+        "3": "Gain +3 Strength and +3 Endurance between the hours of 6:00am and 6:00pm.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Chem Fiend",
+      "perkLevel": "23",
+      "ranks": {
+        "1": "Any chems you take last 30% longer.",
+        "2": "Any chems you take last 60% longer.",
+        "3": "Any chems you take last 90% longer.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Cannibal",
+      "perkLevel": "25",
+      "ranks": {
+        "1": "Eating human, ghoul, super mutant, scorched, or mole miner corpses restores health and hunger.",
+        "2": "Eating human, ghoul, super mutant, scorched, or mole miner corpses restores more health and hunger.",
+        "3": "Eating human, ghoul, super mutant, scorched, or mole miner corpses restores even more health and hunger.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Aquagirl/Aquaboy",
+      "perkLevel": "26",
+      "ranks": {
+        "1": "You no longer take Rad damage from swimming and can breathe underwater.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Fireproof",
+      "perkLevel": "27",
+      "ranks": {
+        "1": "Immediately gain +20 Fire Resistance.",
+        "2": "Immediately gain +40 Fire Resistance.",
+        "3": "Immediately gain +60 Fire Resistance.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Nocturnal Fortitude",
+      "perkLevel": "29",
+      "ranks": {
+        "1": "Gain +20 maximum health between the hours of 6:00pm and 6:00am.",
+        "2": "Gain +40 maximum health between the hours of 6:00pm and 6:00am.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Ironclad",
+      "perkLevel": "30",
+      "ranks": {
+        "1": "Gain 10 damage and energy resistance while not wearing power armour.",
+        "2": "Gain 20 damage and energy resistance while not wearing power armour.",
+        "3": "Gain 30 damage and energy resistance while not wearing power armour.",
+        "4": "Gain 40 damage and energy resistance while not wearing power armour.",
+        "5": "Gain 50 damage and energy resistance while not wearing power armour."
+      }
+    },
+    {
+      "perkName": "Revenant",
+      "perkLevel": "32",
+      "ranks": {
+        "1": "Gain +25% damage bonus for two minutes when a player revives you.",
+        "2": "Gain +50% damage bonus for two minutes when a player revives you.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Rad Resistant",
+      "perkLevel": "34",
+      "ranks": {
+        "1": "Immediately gain +10 Rad Resistance.",
+        "2": "Immediately gain +20 Rad Resistance.",
+        "3": "Immediately gain +30 Rad Resistance.",
+        "4": "Immediately gain +40 Rad Resistance.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Ghoulish",
+      "perkLevel": "36",
+      "ranks": {
+        "1": "Radiation now regenerates some of your lost health.",
+        "2": "Radiation now regenerates more of your lost health.",
+        "3": "Radiation now regenerates even more of your lost health.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Professional Drinker",
+      "perkLevel": "39",
+      "ranks": {
+        "1": "There’s no chance you’ll get addicted to alcohol.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "All Night Long",
+      "perkLevel": "41",
+      "ranks": {
+        "1": "You suffer 20% less from hunger and thirst at night.",
+        "2": "You suffer 40% less from hunger and thirst at night.",
+        "3": "You suffer 60% less from hunger and thirst at night.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Chem Resistant",
+      "perkLevel": "43",
+      "ranks": {
+        "1": "You’re half as likely to get addicted when consuming Chems.",
+        "2": "Gain complete immunity to addiction to Chems.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Sun Kissed",
+      "perkLevel": "45",
+      "ranks": {
+        "1": "Slowly regen radiation damage between the hours of 6:00am and 6:00pm.",
+        "2": "Quickly regen radiation damage between the hours of 6:00am and 6:00pm.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Photosynthetic",
+      "perkLevel": "47",
+      "ranks": {
+        "1": "Gain health regen between the hours of 6:00am and 6:00pm.",
+        "2": "Gain improved health regen between the hours of 6:00am and 6:00pm.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Lifegiver",
+      "perkLevel": "50",
+      "ranks": {
+        "1": "Gain a total of +10% to your max health.",
+        "2": "Gain a total of +30% to your max health.",
+        "3": "Gain a total of +45% to your max health.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    }
+  ],
+  "Charisma": [
+    {
+      "perkName": "Inspirational",
+      "perkLevel": "2",
+      "ranks": {
+        "1": "When you are on a team, gain 5% more experience.",
+        "2": "When you are on a team, gain 10% more experience.",
+        "3": "When you are on a team, gain 15% more experience.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Happy Camper",
+      "perkLevel": "3",
+      "ranks": {
+        "1": "Hunger and thirst grow 40% more slowly when in a camp or a team workshop.",
+        "2": "Hunger and thirst grow 80% more slowly when in a camp or a team workshop.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Lone Wanderer",
+      "perkLevel": "4",
+      "ranks": {
+        "1": "When adventuring alone, take 10% less damage and gain 10% AP Regen.",
+        "2": "When adventuring alone, take 20% less damage and gain 20% AP Regen.",
+        "3": "When adventuring alone, take 30% less damage and gain 30% AP Regen.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Bodyguards",
+      "perkLevel": "5",
+      "ranks": {
+        "1": "Gain 6 damage and energy resistance (maximum 18) for each teammate excluding you.",
+        "2": "Gain 8 damage and energy resistance (maximum 24) for each teammate excluding you.",
+        "3": "Gain 10 damage and energy resistance (maximum 30) for each teammate excluding you.",
+        "4": "Gain 12 damage and energy resistance (maximum 36) for each teammate excluding you.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Hard Bargain",
+      "perkLevel": "7",
+      "ranks": {
+        "1": "Buying and selling prices at vendors are better.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "E.M.T.",
+      "perkLevel": "9",
+      "ranks": {
+        "1": "Players you revive come back with health regen for 15 seconds.",
+        "2": "Players you revive come back with health regen for 30 seconds.",
+        "3": "Players you revive come back with health regen for 60 seconds.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Bloodsucker",
+      "perkLevel": "11",
+      "ranks": {
+        "1": "Blood Packs now satisfy thirst, no longer irradiate, and heal 50% more.",
+        "2": "Blood Packs now satisfy thirst, no longer irradiate, and heal 100% more.",
+        "3": "Blood Packs now satisfy thirst, no longer irradiate, and heal 150% more.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Magnetic Personality",
+      "perkLevel": "13",
+      "ranks": {
+        "1": "Give 1 Charisma for each teammate excluding yourself.",
+        "2": "Give 2 Charisma for each teammate excluding yourself.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Field Surgeon",
+      "perkLevel": "15",
+      "ranks": {
+        "1": "Stimpaks and RadAway will now work much more quickly.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Happy-Go-Lucky",
+      "perkLevel": "17",
+      "ranks": {
+        "1": "Your Luck is increased by 2 while under the influence of alcohol.",
+        "2": "Your Luck is increased by 4 while under the influence of alcohol.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Injector",
+      "perkLevel": "19",
+      "ranks": {
+        "1": "Players revived by you have +6 AP regen for 10 minutes.",
+        "2": "Players revived by you have +12 AP regen for 10 minutes.",
+        "3": "Players revived by you have +18 AP regen for 10 minutes.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Team Medic",
+      "perkLevel": "20",
+      "ranks": {
+        "1": "Your stimpacks now also heal nearby teammates for half their health.",
+        "2": "Your stimpacks now also heal nearby teammates for three quarters of their health.",
+        "3": "Your stimpacks now also heal nearby teammates for their total health.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Quack Surgeon",
+      "perkLevel": "22",
+      "ranks": {
+        "1": "Revive other players with liquor.",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": ""
+      }
+    },
+    {
+      "perkName": "Party Girl/ Party Boy",
+      "perkLevel": "24",
+      "ranks": {
+        "1": "The effects of alcohol are doubled.",
+        "2": "The effects of alcohol are tripled.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Travel Agent ",
+      "perkLevel": "26",
+      "ranks": {
+        "1": "Pay 30% fewer caps when fast travelling.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Healing Hands",
+      "perkLevel": "28",
+      "ranks": {
+        "1": "Players revived are cured off their Rads.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Animal Friend",
+      "perkLevel": "30",
+      "ranks": {
+        "1": "Aim your gun at any animal below your level for a 25% chance to pacify it.",
+        "2": "Aim your gun at any animal below your level for a 50% chance to pacify it.",
+        "3": "Aim your gun at any animal below your level for a 75% chance to pacify it.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Overly Generous",
+      "perkLevel": "32",
+      "ranks": {
+        "1": "Rads increase your chance to inflict 25 Rads with melee attacks.",
+        "2": "Rads increase your chance to inflict 50 Rads with melee attacks.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Anti-Epidemic",
+      "perkLevel": "34",
+      "ranks": {
+        "1": "Disesase cures have a 50% chance to cure nearby teammates diseases.",
+        "2": "Disesase cures have a 100% chance to cure nearby teammates diseases.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Spiritual Healer ",
+      "perkLevel": "36",
+      "ranks": {
+        "1": "You regenerate health for 5 seconds after reviving another player.",
+        "2": "You regenerate health for 10 seconds after reviving another player.",
+        "3": "You regenerate health for 15 seconds after reviving another player.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Squad Maneuvers ",
+      "perkLevel": "37",
+      "ranks": {
+        "1": "Run 10% faster when part of a team.",
+        "2": "Run 20% faster when part of a team.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Philanthropist",
+      "perkLevel": "39",
+      "ranks": {
+        "1": "Restore some of your team’s hunger and thirst when you eat or drink.",
+        "2": "Restore more of your team’s hunger and thirst when you eat or drink.",
+        "3": "Restore much more of your team’s hunger and thirst when you eat or drink.",
+        "4": "",
+        "5": ""
+      }
+    },
+    {
+      "perkName": "Suppressor",
+      "perkLevel": "40",
+      "ranks": {
+        "1": "Reduce target’s damage output by 10% for 2 seconds after you attack.",
+        "2": "Reduce target’s damage output by 20% for 2 seconds after you attack.",
+        "3": "Reduce target’s damage output by 30% for 2 seconds after you attack.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Strange in Numbers",
+      "perkLevel": "42",
+      "ranks": {
+        "1": "Positive mutation effects are +25% stronger if teammates are mutated too.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Rad Sponge",
+      "perkLevel": "44",
+      "ranks": {
+        "1": "When affected by Rads, periodically heal 15 Rads on nearby teammates.",
+        "2": "When affected by Rads, periodically heal 30 Rads on nearby teammates.",
+        "3": "When affected by Rads, periodically heal 50 Rads on nearby teammates.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Tenderizer",
+      "perkLevel": "46",
+      "ranks": {
+        "1": "Your target receives 5% more damage for 5 seconds after you attack.",
+        "2": "Your target receives 6% more damage for 7 seconds after you attack.",
+        "3": "Your target receives 7% more damage for 10 seconds after you attack.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Friendly Fire",
+      "perkLevel": "48",
+      "ranks": {
+        "1": "Teammates hit by your flame weapons regen health briefly (not the Molotov cocktail)",
+        "2": "Teammates hit by your flame weapons regen more health briefly (not the Molotov cocktail)",
+        "3": "Teammates hit by your flame weapons regen even more health briefly (not the Molotov cocktail)",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Wasteland Whisperer",
+      "perkLevel": "50",
+      "ranks": {
+        "1": "25% pacify chance while aiming your gun at a creature below your level.",
+        "2": "55% pacify chance while aiming your gun at a creature below your level.",
+        "3": "75% pacify chance while aiming your gun at a creature below your level.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    }
+  ],
+  "Intelligence": [
+    {
+      "perkName": "First Aid",
+      "perkLevel": "2",
+      "ranks": {
+        "1": "Stimpacks restore 10% more health.",
+        "2": "Stimpacks restore 20% more health.",
+        "3": "Stimpacks restore 30% more health.",
+        "4": "Stimpacks restore 40% more health.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Makeshift Warrior",
+      "perkLevel": "3",
+      "ranks": {
+        "1": "Your melee weapons break 30% more slowly and are cheaper to repair.",
+        "2": "Your melee weapons break 60% more slowly and are cheaper to repair.",
+        "3": "Your melee weapons break 90% more slowly and are cheaper to repair.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Hacker",
+      "perkLevel": "4",
+      "ranks": {
+        "1": "Gain +1 Hacking skill, and terminal lock-out is reduced.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Licensed Plumber",
+      "perkLevel": "5",
+      "ranks": {
+        "1": "Your pipe weapons break 30% more slowly and are cheaper to repair.",
+        "2": "Your pipe weapons break 60% more slowly and are cheaper to repair.",
+        "3": "Your pipe weapons break 90% more slowly and are cheaper to repair.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Pharmacist",
+      "perkLevel": "6",
+      "ranks": {
+        "1": "RadAway removes 30% more radiation.",
+        "2": "RadAway removes 60% more radiation.",
+        "3": "RadAway removes 90% more radiation.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Exotic Weapons",
+      "perkLevel": "8",
+      "ranks": {
+        "1": "You can now craft crossbows, black powder guns, and more (plans are required).",
+        "2": "You can now modify crossbows, black powder guns, and more (plans are required).",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Demolition Expert",
+      "perkLevel": "10",
+      "ranks": {
+        "1": "Your explosives deal +20% damage.",
+        "2": "Your explosives deal +40% damage.",
+        "3": "Your explosives deal +60% damage.",
+        "4": "Your explosives deal +80% damage.",
+        "5": "Your explosives deal +100% damage."
+      }
+    },
+    {
+      "perkName": "Scrapper",
+      "perkLevel": "13",
+      "ranks": {
+        "1": "Obtain more components when you scrap weapons and armour.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Armorer",
+      "perkLevel": "15",
+      "ranks": {
+        "1": "You can now craft advanced armour mods. (Requires plans)",
+        "2": "Crafting armour costs fewer materials.",
+        "3": "Crafted armour has improved durability.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Exotic Weapons",
+      "perkLevel": "16",
+      "ranks": {
+        "1": "You can now craft Rank 2 (plans are required).",
+        "2": "Crafting exotic weapons costs fewer materials.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Contractor",
+      "perkLevel": "18",
+      "ranks": {
+        "1": "Crafting workshop items now costs 25% fewer materials.",
+        "2": "Crafting workshop items now costs 50% fewer materials.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Science",
+      "perkLevel": "20",
+      "ranks": {
+        "1": "You can now craft energy guns (plans are required.)",
+        "2": "You can craft Rank 1 energy gun mods (plans are required).",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Hacker",
+      "perkLevel": "22",
+      "ranks": {
+        "1": "Gain +1 Hacking skill, and terminal lock-out is reduced.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Gunsmith",
+      "perkLevel": "23",
+      "ranks": {
+        "1": "Guns break 25% more slowly and the repair cost is reduced.",
+        "2": "Guns break 50% more slowly and the repair cost is reduced.",
+        "3": "Guns break 75% more slowly and the repair cost is reduced.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Exotic Weapons",
+      "perkLevel": "25",
+      "ranks": {
+        "1": "You can now craft Rank 3 (plans are required).",
+        "2": "Your crafted exotic weapons have improved durabiilty.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Fix it Good",
+      "perkLevel": "27",
+      "ranks": {
+        "1": "You can repair armour and Power Armour to 130% of normal maximum condition.",
+        "2": "You can repair armour and Power Armour to 160% of normal maximum condition.",
+        "3": "You can repair armour and Power Armour to 200% of normal maximum condition.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Batteries Included",
+      "perkLevel": "28",
+      "ranks": {
+        "1": "Energy weapon ammo weighs 30% less.",
+        "2": "Energy weapon ammo weighs 60% less.",
+        "3": "Energy weapon ammo weighs 90% less.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Wrecking Ball",
+      "perkLevel": "29",
+      "ranks": {
+        "1": "+40% damage to workshop objects.",
+        "2": "+80% damage to workshop objects.",
+        "3": "+120% damage to workshop objects.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Science",
+      "perkLevel": "31",
+      "ranks": {
+        "1": "You can craft Rank 2 energy gun mods (plans are required).",
+        "2": "Crafting energy guns now costs fewer materials.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Grease Monkey",
+      "perkLevel": "33",
+      "ranks": {
+        "1": "Workshop items are 30% cheaper to repair.",
+        "2": "Workshop items are 60% cheaper to repair.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Chemist",
+      "perkLevel": "34",
+      "ranks": {
+        "1": "You get double the quantity for crafting chems.",
+        "2": "You get triple the quantity for crafting chems.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Stabilized",
+      "perkLevel": "36",
+      "ranks": {
+        "1": "While wearing Power Armor, heavy guns gain more accuracy and ignore 10% armour.",
+        "2": "While wearing Power Armor, heavy guns gain even more accuracy and ignore 20% armour.",
+        "3": "While wearing Power Armor, heavy guns gain much better accuracy and ignore 30% armour.",
+        "4": "While wearing Power Armor, heavy guns gain excellent accuracy and ignore 40% armour.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Hacker",
+      "perkLevel": "38",
+      "ranks": {
+        "1": "Gain +1 hacking skill and terminal lock-out time is reduced.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Weapon Artisan",
+      "perkLevel": "40",
+      "ranks": {
+        "1": "Repair any weapon to 130% its max condition.",
+        "2": "Repair any weapon to 160% its max condition.",
+        "3": "Repair any weapon to 200% its max condition.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Power Smith",
+      "perkLevel": "41",
+      "ranks": {
+        "1": "You can now craft advanced Power Armor suits (plans are required)",
+        "2": "Crafting Power Armor costs fewer materials.",
+        "3": "Crafted Power Armor has improved durability.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Science Master",
+      "perkLevel": "43",
+      "ranks": {
+        "1": "You can craft Rank 3 energy gun mods (plans are required).",
+        "2": "Your crafted energy guns have increased durability.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Power Patcher",
+      "perkLevel": "44",
+      "ranks": {
+        "1": "Your Power Armour breaks 20% more slowly and is cheaper to repair",
+        "2": "Your Power Armour breaks 40% more slowly and is cheaper to repair",
+        "3": "Your Power Armour breaks 60% more slowly and is cheaper to repair",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Nerd Rage",
+      "perkLevel": "46",
+      "ranks": {
+        "1": "While below 20% health, gain 20 damage resistance, 10% damage dealt to enemies, and 15% AP regen.",
+        "2": "While below 20% health, gain 30 damage resistance, 15% damage dealt to enemies, and 15% AP regen.",
+        "3": "While below 20% health, gain 40 damage resistance, 20% damage dealt to enemies, and 15% AP regen.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Robotics Expert",
+      "perkLevel": "48",
+      "ranks": {
+        "1": "Hack an enemy robot for a 25% chance to pacify it.",
+        "2": "Hack an enemy robot for a 50% chance to pacify it.",
+        "3": "Hack an enemy robot for a 75% chance to pacify it.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Portable Power",
+      "perkLevel": "49",
+      "ranks": {
+        "1": "All Power Armour parts and chassis weights are reduced by 25%.",
+        "2": "All Power Armour parts and chassis weights are reduced by 50%.",
+        "3": "All Power Armour parts and chassis weights are reduced by 75%.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Power User",
+      "perkLevel": "50",
+      "ranks": {
+        "1": "Fusion cores last 20% longer.",
+        "2": "Fusion cores last 40% longer.",
+        "3": "Fusion cores last 60% longer.",
+        "4": "Fusion cores last 80% longer.",
+        "5": "Fusion cores last 100% longer."
+      }
+    }
+  ],
+  "Agility": [
+    {
+      "perkName": "Action Boy / Action Girl",
+      "perkLevel": "2",
+      "ranks": {
+        "1": "Action Points regenerate 15% faster.",
+        "2": "Action Points regenerate 30% faster.",
+        "3": "Action Points regenerate 45% faster.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Born Survivor",
+      "perkLevel": "3",
+      "ranks": {
+        "1": "Falling below 20% health will automatically use a Stimpak",
+        "2": "Falling below 30% health will automatically use a Stimpak",
+        "3": "Falling below 40% health will automatically use a Stimpak",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Thru-Hiker",
+      "perkLevel": "3",
+      "ranks": {
+        "1": "Food and drink weights are reduced by 30%.",
+        "2": "Food and drink weights are reduced by 60%.",
+        "3": "Food and drink weights are reduced by 90%.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Gun Runner",
+      "perkLevel": "4",
+      "ranks": {
+        "1": "Your running speed is increased by 10% when you have a pistol equipped.",
+        "2": "Your running speed is increased by 20% when you have a pistol equipped.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Moving Target",
+      "perkLevel": "5",
+      "ranks": {
+        "1": "+15 damage and energy resistance while sprinting (Not with Power armour.)",
+        "2": "+30 damage and energy resistance while sprinting (Not with Power armour.)",
+        "3": "+45 damage and energy resistance while sprinting (Not with Power armour.)",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Gunslinger",
+      "perkLevel": "6",
+      "ranks": {
+        "1": "Your non-automatic pistols now do +10% damage.",
+        "2": "Your non-automatic pistols now do +20% damage.",
+        "3": "Your non-automatic pistols now do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Dead Man Sprinting",
+      "perkLevel": "8",
+      "ranks": {
+        "1": "Sprint 10% faster at increased AP cost when your health is below 40%.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Packin’ Light",
+      "perkLevel": "9",
+      "ranks": {
+        "1": "Your pistols weigh 25% less.",
+        "2": "Your pistols weigh 50% less.",
+        "3": "Your pistols weigh 75% less.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Guerrilla",
+      "perkLevel": "10",
+      "ranks": {
+        "1": "Your automatic pistols do +10% damage.",
+        "2": "Your automatic pistols do +15% damage.",
+        "3": "Your automatic pistols do +20% damage.",
+        "4": "",
+        "5": ""
+      }
+    },
+    {
+      "perkName": "Marathoner",
+      "perkLevel": "13",
+      "ranks": {
+        "1": "Sprinting consumes 20% fewer Action Points.",
+        "2": "Sprinting consumes 40% fewer Action Points.",
+        "3": "Sprinting consumes 60% fewer Action Points.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Ninja",
+      "perkLevel": "15",
+      "ranks": {
+        "1": "Your melee sneak attacks do 2.3x normal damage.",
+        "2": "Your melee sneak attacks do 2.6x normal damage.",
+        "3": "Your melee sneak attacks do 3x normal damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Evasive",
+      "perkLevel": "17",
+      "ranks": {
+        "1": "Each Agility point adds +1 damage and energy resistance (Maximum of 15). (Can’t be used with Power Armor)",
+        "2": "Each Agility point adds +2 damage and energy resistance (Maximum of 30). (Can’t be used with Power Armor)",
+        "3": "Each Agility point adds +3 damage and energy resistance (Maximum of 45). (Can’t be used with Power Armor)",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Modern Renegade",
+      "perkLevel": "18",
+      "ranks": {
+        "1": "Gain some pistol hip fire accuracy and a 1% chance to cripple a limb.",
+        "2": "Gain more pistol hip fire accuracy and a 2% chance to cripple a limb.",
+        "3": "Gain even more pistol hip fire accuracy and a 3% chance to cripple a limb.",
+        "4": "Gain excellent pistol hip fire accuracy and a 4% chance to cripple a limb.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Sneak",
+      "perkLevel": "20",
+      "ranks": {
+        "1": "You are 20% harder to detect while sneaking.",
+        "2": "You are 40% harder to detect while sneaking.",
+        "3": "You are 60% harder to detect while sneaking.",
+        "4": "You are 80% harder to detect while sneaking.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Home Defense",
+      "perkLevel": "22",
+      "ranks": {
+        "1": "You can craft and disarm better traps and craft better turrets. (Plans required)",
+        "2": "You can craft and disarm advanced traps and craft advanced turrets.",
+        "3": "You can craft and disarm expert traps and craft expert turrets.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Gunslinger",
+      "perkLevel": "24",
+      "ranks": {
+        "1": "Your non-automatic pistols now do +10% damage.",
+        "2": "Your non-automatic pistols now do +15% damage.",
+        "3": "Your non-automatic pistols now do +20% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Expert Guerrilla",
+      "perkLevel": "25",
+      "ranks": {
+        "1": "Your automatic pistols do +10% damage.",
+        "2": "Your automatic pistols do +15% damage.",
+        "3": "Your automatic pistols do +20% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Covert Operative",
+      "perkLevel": "27",
+      "ranks": {
+        "1": "Your ranged sneak attacks deal 2.15x normal damage.",
+        "2": "Your ranged sneak attacks deal 2.3x normal damage.",
+        "3": "Your ranged sneak attacks deal 2.5x normal damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Light Footed",
+      "perkLevel": "29",
+      "ranks": {
+        "1": "While sneaking, never trigger mines or floor-based traps.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Enforcer Card",
+      "perkLevel": "30",
+      "ranks": {
+        "1": "Your shotguns gain a 5% stagger chance and a 3% chance to cripple a limb.",
+        "2": "Your shotguns gain a 10% stagger chance and a 6% chance to cripple a limb.",
+        "3": "Your shotguns gain a 15% stagger chance and a 9% chance to cripple a limb.",
+        "4": "Your shotguns gain a 20% stagger chance and a 12% chance to cripple a limb.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Goat Legs",
+      "perkLevel": "32",
+      "ranks": {
+        "1": "Take 40% less damage from falling.",
+        "2": "Take 80% less damage from falling.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Ammosmith",
+      "perkLevel": "34",
+      "ranks": {
+        "1": "Produce 30% more rounds when crafting ammo.",
+        "2": "Produce 60% more rounds when crafting ammo.",
+        "3": "Produce 100% more rounds when crafting ammo.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Escape Artist",
+      "perkLevel": "35",
+      "ranks": {
+        "1": "Sneak to lose enemies. Running no longer affects stealth.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Mister Sandman",
+      "perkLevel": "37",
+      "ranks": {
+        "1": "At night, your silenced weapons do an additional 25% sneak damage.",
+        "2": "At night, your silenced weapons do an additional 50% sneak damage.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "White Knight",
+      "perkLevel": "39",
+      "ranks": {
+        "1": "Your armor breaks 30% more slowly and is cheaper to repair.",
+        "2": "Your armor breaks 60% more slowly and is cheaper to repair.",
+        "3": "Your armor breaks 90% more slowly and is cheaper to repair.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Gunslinger",
+      "perkLevel": "41",
+      "ranks": {
+        "1": "Your non-automatic pistols now do +10% damage.",
+        "2": "Your non-automatic pistols now do +15% damage.",
+        "3": "Your non-automatic pistols now do +20% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Master Guerrilla",
+      "perkLevel": "43",
+      "ranks": {
+        "1": "Your automatic pistols do +10% damage.",
+        "2": "Your automatic pistols do +20% damage.",
+        "3": "Your automatic pistols do +30% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Dodgy",
+      "perkLevel": "45",
+      "ranks": {
+        "1": "Spend 30 Action Points to avoid 10% of each enemy attack.",
+        "2": "Spend 30 Action Points to avoid 20% of each enemy attack.",
+        "3": "Spend 30 Action Points to avoid 30% of each enemy attack.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Secret Agent",
+      "perkLevel": "47",
+      "ranks": {
+        "1": "Stealth Boys last twice as long.",
+        "2": "Stealth Boys last three times as long.",
+        "3": "Stealth Boys last four times as long.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Adrenaline",
+      "perkLevel": "49",
+      "ranks": {
+        "1": "Gain +6% (max 36%) damage for 30 seconds per kill. Duration refreshes with subsequent kills.",
+        "2": "Gain +7% (max 42%) damage for 30 seconds per kill. Duration refreshes with subsequent kills.",
+        "3": "Gain +8% (max 48%) damage for 30 seconds per kill. Duration refreshes with subsequent kills.",
+        "4": "Gain +9% (max 54%) damage for 30 seconds per kill. Duration refreshes with subsequent kills.",
+        "5": "Gain +10% (max 60%) damage for 30 seconds per kill. Duration refreshes with subsequent kills."
+      }
+    },
+    {
+      "perkName": "Gun Fu",
+      "perkLevel": "50",
+      "ranks": {
+        "1": "VATS swaps targets on kill with +10% damage.",
+        "2": "VATS swaps targets on kill with +10% damage, then 20% damage to a second target.",
+        "3": "VATS swaps targets on kill with +10%, 20%, and then 30% damage to three targets respectively.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    }
+  ],
+  "Luck": [
+    {
+      "perkName": "Pharma Farma",
+      "perkLevel": "2",
+      "ranks": {
+        "1": "40% chance to find extra aid chems when you search a chem container.",
+        "2": "60% chance to find extra aid chems when you search a chem container.",
+        "3": "80% chance to find extra aid chems when you search a chem container.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Scrounger",
+      "perkLevel": "3",
+      "ranks": {
+        "1": "40% chance to find extra ammo when you search an ammunition container.",
+        "2": "60% chance to find extra ammo when you search an ammunition container.",
+        "3": "80% chance to find extra ammo when you search an ammunition container.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Serendipity",
+      "perkLevel": "5",
+      "ranks": {
+        "1": "While below 30% health, gain a 15% chance to avoid damage.",
+        "2": "While below 35% health, gain a 30% chance to avoid damage.",
+        "3": "While below 35% health, gain a 45% chance to avoid damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Can Do!",
+      "perkLevel": "7",
+      "ranks": {
+        "1": "40% chance to find an extra canned good when you search a food container.",
+        "2": "60% chance to find an extra canned good when you search a food container.",
+        "3": "80% chance to find an extra canned good when you search a food container.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Good With Salt",
+      "perkLevel": "9",
+      "ranks": {
+        "1": "Food in your inventory will spoil 30% slower than normal.",
+        "2": "Food in your inventory will spoil 60% slower than normal.",
+        "3": "Food in your inventory will spoil 90% slower than normal.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Junk Shield",
+      "perkLevel": "10",
+      "ranks": {
+        "1": "Carry Junk to gain up to 10 damage and energy resistance (Doesn’t work with Power Armour)",
+        "2": "Carry Junk to gain up to 20 damage and energy resistance (Doesn’t work with Power Armour)",
+        "3": "Carry Junk to gain up to 30 damage and energy resistance (Doesn’t work with Power Armour)",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Mystery Meat",
+      "perkLevel": "12",
+      "ranks": {
+        "1": "Stimpaks may generate edible meat tissue. Higher rads improve the chance.",
+        "2": "Stimpaks generate edible, edible meat. Higher Rads improve the chance.",
+        "3": "Stimpaks generate excessive, edible meat. Higher Rads improve the chance.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Cap Collector",
+      "perkLevel": "15",
+      "ranks": {
+        "1": "You have a chance to find more bottle caps when opening a caps stash.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Woodchucker",
+      "perkLevel": "17",
+      "ranks": {
+        "1": "Collect twice as much when harvesting wood.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Curator",
+      "perkLevel": "19",
+      "ranks": {
+        "1": "The benefits of bobbleheads and magazines last twice as long.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Psychopath",
+      "perkLevel": "21",
+      "ranks": {
+        "1": "Every kill in VATS has a 10% chance to refill your critical meter.",
+        "2": "Every kill in VATS has a 20% chance to refill your critical meter.",
+        "3": "Every kill in VATS has a 30% chance to refill your critical meter.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Dry Nurse",
+      "perkLevel": "23",
+      "ranks": {
+        "1": "You have a 50% chance to keep your Stimpak when reviving another player.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Lucky Break",
+      "perkLevel": "24",
+      "ranks": {
+        "1": "Slight chance your armour will repair itself when struck.",
+        "2": "Chance your armour will repair itself when struck.",
+        "3": "Chance your armour will greatly repair itself when struck.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Mysterious Stranger",
+      "perkLevel": "26",
+      "ranks": {
+        "1": "The mysterious stranger appears when using V.A.T.S.",
+        "2": "The mysterious stranger appears  often when using V.A.T.S.",
+        "3": "The mysterious stranger appears more often when using V.A.T.S. (He knows your name!)",
+        "4": "",
+        "5": ""
+      }
+    },
+    {
+      "perkName": "Last Laugh",
+      "perkLevel": "27",
+      "ranks": {
+        "1": "You drop a live grenade from your inventory when you die.",
+        "2": "N/A",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Four Leaf Clover",
+      "perkLevel": "29",
+      "ranks": {
+        "1": "Each hit in VATS has a chance to fill your Critical meter.",
+        "2": "Each hit in VATS has a better chance to fill your Critical meter.",
+        "3": "Each hit in VATS has a good chance to fill your Critical meter.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Starched Genes",
+      "perkLevel": "30",
+      "ranks": {
+        "1": "Reduced chance to mutate from rads and Radaway will never cure mutations.",
+        "2": "You will never mutate from rads and Radaway will never cure mutations.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "One Gun Army",
+      "perkLevel": "31",
+      "ranks": {
+        "1": "Heavy guns gain a 2% stagger chance and a 2% chance to cripple a limb.",
+        "2": "Heavy guns gain a 4% stagger chance and a 4% chance to cripple a limb.",
+        "3": "Heavy guns gain a 6% stagger chance and a 6% chance to cripple a limb.",
+        "4": "Heavy guns gain a 8% stagger chance and a 8% chance to cripple a limb.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Grim Reaper’s Sprint",
+      "perkLevel": "33",
+      "ranks": {
+        "1": "Any kill in VATS has a 15% chance to restore AP to full.",
+        "2": "Any kill in VATS has a 25% chance to restore AP to full.",
+        "3": "Any kill in VATS has a 35% chance to restore AP to full.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Storm Chaser",
+      "perkLevel": "35",
+      "ranks": {
+        "1": "Gain health regeneration while outside during rain or Rad Storms.",
+        "2": "Gain high health regeneration while outside during rain or Rad Storms.",
+        "3": "N/A",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Tormentor",
+      "perkLevel": "37",
+      "ranks": {
+        "1": "Your rifle attacks have 3% chance to cripple a limb.",
+        "2": "Your rifle attacks have 6% chance to cripple a limb.",
+        "3": "Your rifle attacks have 9% chance to cripple a limb.",
+        "4": "Your rifle attacks have 12% chance to cripple a limb.",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Ricochet",
+      "perkLevel": "38",
+      "ranks": {
+        "1": "Gain 6% chance to deflect back some of an enemy’s ranged damage. Doesn’t apply in PVP.",
+        "2": "Gain 12% chance to deflect back some of an enemy’s ranged damage. Doesn’t apply in PVP.",
+        "3": "Gain 18% chance to deflect back some of an enemy’s ranged damage. Doesn’t apply in PVP.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Quick Hands",
+      "perkLevel": "40",
+      "ranks": {
+        "1": "Gain a 6% chance to instantly reload your clip when empty.",
+        "2": "Gain a 12% chance to instantly reload your clip when empty.",
+        "3": "Gain a 18% chance to instantly reload your clip when empty.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Bloody Mess",
+      "perkLevel": "42",
+      "ranks": {
+        "1": "5% bonus damage. Enemies may explode into “a gory red paste”.",
+        "2": "10% bonus damage. Enemies may explode into “a gory red paste”.",
+        "3": "15% bonus damage. Enemies may explode into “a gory red paste”.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Critical Savvy",
+      "perkLevel": "44",
+      "ranks": {
+        "1": "Critical Hits now only consume 85% of your critical meter.",
+        "2": "Critical Hits now only consume 70% of your critical meter.",
+        "3": "Critical Hits now only consume 55% of your critical meter.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Class Freak",
+      "perkLevel": "46",
+      "ranks": {
+        "1": "The negative effects of your mutations are reduced by 25%.",
+        "2": "The negative effects of your mutations are reduced by 50%.",
+        "3": "The negative effects of your mutations are reduced by 75%.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Better Criticals",
+      "perkLevel": "47",
+      "ranks": {
+        "1": "VATS criticals now do +20% damage.",
+        "2": "VATS criticals now do +30% damage.",
+        "3": "VATS criticals now do +40% damage.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Mysterious Savior",
+      "perkLevel": "49",
+      "ranks": {
+        "1": "A mysterious saviour will occasionally appear to revive you when you are downed.",
+        "2": "A mysterious saviour will frequently appear to revive you when you are downed.",
+        "3": "A mysterious saviour will more frequently appear to revive you when you are downed.",
+        "4": "N/A",
+        "5": "N/A"
+      }
+    },
+    {
+      "perkName": "Super Duper",
+      "perkLevel": "50",
+      "ranks": {
+        "1": "When crafting anything, there is 10% chance you’ll double the results.",
+        "2": "When crafting anything, there is 20% chance you’ll double the results.",
+        "3": "When crafting anything, there is 30% chance you’ll double the results.",
+        "4": "When crafting anything, there is 40% chance you’ll double the results.",
+        "5": "N/A"
+      }
+    }
+  ]
+}
